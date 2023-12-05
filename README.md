@@ -21,16 +21,4 @@ The plot revolves around the fictional town of Hawkins, Indiana, in the 1980s. A
 
 My favorite scene is when Max (Sadie Sink) finds herself running away from a mysterious Upside Down entity known as "Vecna," identified as Number 001. This intense moment occurs alongside the unfolding story involving Hawkins residents, including Henry Creel, adding a layer of suspense and intrigue to the series.
 
-### Lists
 
-#### Unordered List
-
-- The show premiered on **July 15, 2016.**
-- It gained **widespread acclaim** for its unique blend of horror, science fiction, and 80s nostalgia.
-- The setting is the fictional town of **Hawkins, Indiana.**
-
-#### Ordered List
-
-1. The main character, **Eleven,** possesses psychokinetic abilities.
-2. The kids face supernatural forces, including the mysterious **Upside Down.**
-3. A significant element involves a secretive government laboratory.
